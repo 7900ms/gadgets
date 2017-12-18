@@ -10,6 +10,7 @@
 - 无法备份：短信
 - 密码相关： Authy
 - Email 相关： Outlook, Gmail, QQ mail 
+- 地址相关：metroMATE
 
 ### 三清检查 list
 
