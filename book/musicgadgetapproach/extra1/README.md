@@ -5,7 +5,7 @@
 
 - 照片：备份照片到 Google Photos 
 - 屏幕上的 APP
-- 录音：手动备份到 iCloud
+- 录音：Voice memos 手动备份到 iCloud
 - 自动备份：联系人
 - 无法备份：短信
 - 密码相关： Authy
