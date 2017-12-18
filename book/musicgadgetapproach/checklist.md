@@ -26,6 +26,7 @@
 
 ### App 评估 list
 
+```
 - PDA式：
 -- 一次性app
 -- 常用app
@@ -40,6 +41,7 @@
 -- 浏览器
 -- Games
 -- Finance
+```
 
 ### App 安装 list
 
