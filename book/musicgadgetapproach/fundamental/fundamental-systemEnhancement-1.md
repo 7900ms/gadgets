@@ -30,10 +30,13 @@ iOS 系统：不下载新的 iOS 系统 (Setting-General-Updates-不要安装10.
 
 关闭蜂窝网络和 wifi
 
-- App Store： 关闭 App Store 更新：Settigns -> iTunes & App Store - Automatic Downloads 全取消
+- App Store： 关闭 App Store 更新：Settigns -> iTunes & App Store - 登入 - Automatic Downloads 全取消
 
 打开 wifi
 
+#### iCloud 基础
+
+Settings -> 个人信息 登入
 
 #### 时间和日期
 
