@@ -16,17 +16,24 @@
 #### 恢复
 
 三清后进入手机初始化界面，登入 wifi ，
-Set Up as New iPhone 再手动从 App Store 下载需要的东西
+Set Up as New iPhone (再准备手动从 App Store 下载需要的东西)
+
+#### 系统不升级
+
+打开 wifi
+
+iOS 系统：不下载新的 iOS 系统 (Setting-General-Updates-不要安装10.3.1和之后的系统)， [Profile](https://oldcat.me/web/NOOTA9.mobileconfig) [ref](https://sspai.com/post/40961) 重启
+
+关闭 wifi
 
 #### 网络
 
-关闭蜂窝网络和wifi
+关闭蜂窝网络和 wifi
 
 - App Store： 关闭 App Store 更新：Settigns -> iTunes & App Store - Automatic Downloads 全取消
 
 打开 wifi
 
-- iOS 系统：不下载新的 iOS 系统 (Setting-General-Updates-不要安装10.3.1和之后的系统)， [Profile](https://oldcat.me/web/NOOTA9.mobileconfig) [ref](https://sspai.com/post/40961) 重启
 
 #### 时间和日期
 
