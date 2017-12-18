@@ -11,6 +11,7 @@
 - 密码相关： Authy
 - Email 相关： Outlook, Gmail, QQ mail 
 - 地址相关：metroMATE
+- 闹钟相关
 - Workflow 枢机
 - Workflow 一般
 
