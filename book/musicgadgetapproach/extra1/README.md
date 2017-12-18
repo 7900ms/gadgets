@@ -9,6 +9,7 @@
 - 自动备份：联系人
 - 无法备份：短信
 - 密码相关： Authy
+- Email 相关： Outlook, Gmail, QQ mail 
 
 ### 三清检查 list
 
