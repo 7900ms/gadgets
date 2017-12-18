@@ -48,3 +48,10 @@ Workflow 按钮位置(图片发送给workflow的位置)
 
 Settings - General - Background App Refresh
 
+#### 辅助触碰
+
+辅助触碰
+
+在未设置密码的情况下，关机键点亮屏幕之后，点 Home 就可以解锁
+
+
