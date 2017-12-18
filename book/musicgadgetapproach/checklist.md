@@ -27,7 +27,7 @@
 ### App 评估 list
 
 ```
-- PDA式：
+- PDA式 v：
 -- 一次性app
 -- 常用app
 -- 极度常用app
