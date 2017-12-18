@@ -1,0 +1,20 @@
+
+#### 枢机
+
+workflow
+
+#### 主屏临时 - 扫清
+
+#### 主屏1 - 枢机
+
+#### 主屏2 - 硬盘
+
+-
+
+入住的 app 1:
+google photos, googel maps, metroMATE, Telegram
+
+入住的 app 2:
+TextNow, WeChat, Authy
+
+-
