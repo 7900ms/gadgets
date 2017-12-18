@@ -18,7 +18,7 @@
 
 ### 三清检查 list
 
-- 手机蜂窝网络关闭：Settings -> Data - Celular data 关闭
+- 手机蜂窝网络关闭：Settings -> Cellular - 关闭
 - 手机wifi：断开wifi并断开wifi密码 
 - 手机密码：手机关闭手机密码 TouchID&Passcode
 - 手机 查找我的iPhone：手机关闭 “查找我的iPhone[-](https://support.apple.com/zh-cn/HT201441)” 
