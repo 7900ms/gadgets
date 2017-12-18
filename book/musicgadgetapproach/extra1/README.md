@@ -25,6 +25,6 @@
 
 ### 三清 (恢复出厂设置)
 
-“设置”>“通用(General)”>“还原(Reset)”>“抹掉所有内容和设置(Erase All Content and Settings)”
+“设置”>“通用(General)”>“还原(Reset)”>“抹掉所有内容和设置(Erase All Content and Settings) [-](https://support.apple.com/zh-cn/ht201274)”
 
 
