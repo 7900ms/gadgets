@@ -9,8 +9,7 @@
 
 关闭蜂窝网络和wifi
 
-- App Store： 关闭 App Store 更新
-- 关闭 iTunes 自动更新
+- App Store： 关闭 App Store 更新：Settigns -> iTunes & App Store - Automatic Downloads 全取消
 
 打开 wifi
 
