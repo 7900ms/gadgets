@@ -19,7 +19,7 @@
 
 - 手机wifi：断开wifi并断开wifi密码 
 - 手机密码：手机关闭手机密码 TouchID&Passcode
-- 手机 查找我的iPhone ：手机关闭 "查找我的iPhone[-](https://support.apple.com/zh-cn/HT201441)" ，并在网页确认 (登录 iCloud.com - 查找我的 iPhone - 所有设备 - 移除)
+- 手机 查找我的iPhone ：手机关闭 "查找我的iPhone[-](https://support.apple.com/zh-cn/HT201441) Settings - 个人信息 - iCloud - 关闭 FindMyIphone" ，并在网页确认 (登录 iCloud.com - 查找我的 iPhone - 所有设备 - 移除)
 - 手机 iCloud：手机注销 iCloud
 - 确认：重启手机，确认都已注销完毕
 
