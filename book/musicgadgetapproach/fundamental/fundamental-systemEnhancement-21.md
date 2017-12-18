@@ -15,6 +15,10 @@ workflow
 google photos, googel maps, metroMATE, Telegram
 
 入住的 app 2:
-TextNow, WeChat, Authy
+TextNow, WeChat, Authy, Skype
+
+入住的 app 3:
+Outlook, QQ mail, Gmail, UA Student
+
 
 -
