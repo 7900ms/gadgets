@@ -3,7 +3,7 @@
 
 三清 (恢复出厂设置)：
 
-“设置”>“通用(General)”>“还原(Reset)”>“抹掉所有内容和设置(Erase All Content and Settings)”
+“设置”>“通用(General)”>“还原(Reset)”>“抹掉所有内容和设置(Erase All Content and Settings) [-](https://support.apple.com/zh-cn/ht201274)”
 
 #### 网络
 
@@ -13,7 +13,7 @@
 
 打开 wifi
 
-- iOS 系统：不下载新的 iOS 系统 (Setting-General-Updates-不要安装10.3.1和之后的系统)， [Profile](https://oldcat.me/web/NOOTA9.mobileconfig) [ref](https://sspai.com/post/40961)
+- iOS 系统：不下载新的 iOS 系统 (Setting-General-Updates-不要安装10.3.1和之后的系统)， [Profile](https://oldcat.me/web/NOOTA9.mobileconfig) [ref](https://sspai.com/post/40961) 重启
 
 #### 恢复
 
