@@ -27,6 +27,6 @@ Outlook, QQ mail, Gmail, UA Student
 CommBank, NAB, Alipay, 工银e融联
 
 入住的 app 5:
-Chess Pro (cn)
+Chess Pro (cn)，Google Translate
 
 -
