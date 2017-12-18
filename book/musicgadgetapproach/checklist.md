@@ -24,7 +24,25 @@
 -
 -
 
+### App 评估 list
+
+- PDA式：
+-- 一次性app
+-- 常用app
+-- 极度常用app
+
+- 硬盘式：
+-- 硬盘
+-- QQ
+-- 迅雷
+-- 鲁大师
+-- 附件
+-- 浏览器
+-- Games
+-- Finance
+
 ### App 安装 list
 
+- none
 
 -
