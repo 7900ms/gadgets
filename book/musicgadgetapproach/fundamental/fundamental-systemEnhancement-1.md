@@ -1,4 +1,12 @@
 
+查看区
+
+系统信息：Settings -> General - About (iOS 10.3.1(14E304))
+
+系统容量：Settings -> General - Storage & iCloud Usage
+
+系统复杂度
+
 #### 格式化
 
 三清 (恢复出厂设置)：
