@@ -21,8 +21,9 @@
 - 手机wifi：断开wifi并断开wifi密码 
 - 手机密码：手机关闭手机密码 TouchID&Passcode
 - 手机 查找我的iPhone：手机关闭 “查找我的iPhone[-](https://support.apple.com/zh-cn/HT201441)” 
-1, 登出 Find iPhone App; 2, Settings - 个人信息 - iCloud - 关闭 FindMyIphone; 3. 在网页确认 (登录 iCloud.com - 查找我的 iPhone - 所有设备 - 移除)
-- 手机 iCloud：手机注销 iCloud
+1, 登出 Find iPhone App; 2, Settings -> 个人信息 - iCloud - 关闭 FindMyIphone; 3. 在网页确认 (登录 iCloud.com - 查找我的 iPhone - 所有设备 - 移除)
+- 手机 iTunes & App Store 登出：Settings -> iTunes & App Stores - 登出
+- 手机 iCloud：手机注销 iCloud 登出：Settings -> 个人信息 - 登出
 - 确认：重启手机，确认都已注销完毕
 
 ### 三清 (恢复出厂设置)
