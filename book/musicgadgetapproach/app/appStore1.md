@@ -31,7 +31,7 @@ QQ：Telegram, Twitter, Skype, WeChat(3014423225)，Instagram，QQ
 
 游戏：Chess Pro，狼人杀
 
-录音：自带的
+录音：自带的，AudioCopy+Soundcloud(tasmnboat)
 
 阅读：闹闹女巫店
 
