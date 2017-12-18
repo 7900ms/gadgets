@@ -66,10 +66,23 @@ Workflow 按钮位置(图片发送给workflow的位置)
 
 Settings - General - Background App Refresh
 
-#### 辅助触碰
+##################### - - - ###################
 
-辅助触碰
+细节设置1 - 辅助触碰
 
 在未设置密码的情况下，关机键点亮屏幕之后，点 Home 就可以解锁
+Settings -> General - Accessibility - AssistiveTouch (上下左右：LockScreen，，Home，MultiTasking)
 
+细节设置2 - 屏幕旋转 蓝牙
 
+屏幕旋转 蓝牙 关闭
+
+细节设置3 - 手机屏锁时间 亮度 密码
+
+手机锁屏时间 Settings -> Display & Brightness - Auto-Lock 1min
+
+锁屏密码 Settings-> Touch ID & Passcode 不要
+
+细节设置4 - 输入
+
+Settings -> General - Keyboards
