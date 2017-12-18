@@ -3,7 +3,7 @@ app store
 
 网络：Shadowrocket
 
-照片图片：Google Photos，Imgur，Tailor，Awesome Screenshot for Safari，Aviary
+照片图片：Google Photos，Imgur (图片上传)，Tailor(截图拼接)，Awesome Screenshot for Safari(网页截图)，Aviary(修图)
 
 地图：Google Maps，metroMATE
 
@@ -13,7 +13,7 @@ app store
 
 电台：FM Radio
 
-金融：Alipay，CommBank，NAB，工银融e联
+金融：Alipay，CommBank，NAB，工银融e联，中国工商银行(没啥用)
 
 密码：Authy
 
