@@ -32,6 +32,8 @@ iOS 系统：不下载新的 iOS 系统 (Setting-General-Updates-不要安装10.
 
 - App Store： 关闭 App Store 更新：Settigns -> iTunes & App Store - 登入 - Automatic Downloads 全取消
 
+- Podcase：关闭 Podcast 自动下载：Settigns - Podcasts - Refresh Manully, Download episodes off
+
 打开 wifi
 
 #### iCloud 基础
