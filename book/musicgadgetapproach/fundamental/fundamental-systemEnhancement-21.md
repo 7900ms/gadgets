@@ -11,6 +11,9 @@ workflow
 
 -
 
+入住的 app 0:
+workflow
+
 入住的 app 1:
 google photos, googel maps, metroMATE, Telegram
 
@@ -22,5 +25,8 @@ Outlook, QQ mail, Gmail, UA Student
 
 入住的 app 4:
 CommBank, NAB, Alipay, 工银e融联
+
+入住的 app 5:
+Chess Pro (cn)
 
 -
