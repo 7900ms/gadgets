@@ -85,4 +85,10 @@ https://www.imore.com/how-get-your-favorite-apps-fast-possible-launch-center-pro
 https://www.techbout.com/create-nested-folders-in-ios-9-4412/ # ios folder subfolder
 folderseption
 
+10. 网页收藏夹
+
+非功能性的东西，比如 不是通讯录、日历的，或展示超级信息的，都是网页收藏夹里的
+
+
+
 
