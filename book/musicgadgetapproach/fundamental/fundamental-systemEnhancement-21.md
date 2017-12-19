@@ -29,4 +29,7 @@ CommBank, NAB, Alipay, 工银e融联
 入住的 app 5:
 Chess Pro (cn)，Google Translate
 
+入住的 app 6:
+Youtube, Imgur, Twitter, Instagram, 狼人杀，WSOP德州扑克，天天德州，途游德州扑克
+
 -
