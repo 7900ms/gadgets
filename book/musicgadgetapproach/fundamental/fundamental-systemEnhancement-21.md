@@ -18,7 +18,7 @@ workflow
 google photos, googel maps, metroMATE, Telegram
 
 入住的 app 2:
-TextNow, WeChat, Authy, Skype
+TextNow, Authy, Skype
 
 入住的 app 3:
 Outlook, QQ mail, Gmail, UA Student
@@ -33,6 +33,6 @@ Chess Pro (cn)，Google Translate
 Youtube, Imgur, Twitter, Instagram, 狼人杀，WSOP德州扑克(au)
 
 入住的 app 7:
-Shadowrocket(cn)
+Shadowrocket(cn), FM Radio Station(cn), CamScanner+(cn), WeChat(cn)
 
 -
