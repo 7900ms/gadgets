@@ -40,5 +40,17 @@ QQ：Telegram, Twitter, Skype, WeChat(3014423225)，Instagram，QQ
 其他：北京移动，SEEK Jobs，NPR News，FamilyTree，UA Student，QQ同步助手(iOS版不能备份短信)
 
 
+-
+
+#### pick
+
+Texas Poker:
+WSOP; tried 途游德州扑克，天天德州，PokerStars
+
+国际象棋：
+Chess Pro(cn)
+
+中国象棋：
+精品中国象棋 [-](https://itunes.apple.com/cn/app/精品中国象棋/id979859989?mt=8)
 
 -
