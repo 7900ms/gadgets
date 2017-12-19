@@ -54,6 +54,6 @@ Chess Pro(cn)
 精品中国象棋 [-](https://itunes.apple.com/cn/app/精品中国象棋/id979859989?mt=8)
 
 Laucher：
-; tried Launcher with Multiple Widgets, Magic Launcher with Widgets, AirLaunch
+; tried Launcher with Multiple Widgets, Magic Launcher with Widgets, AirLaunch; not tried Launch Center Pro
 
 -
