@@ -45,7 +45,7 @@ QQ：Telegram, Twitter, Skype, WeChat(3014423225)，Instagram，QQ
 #### pick
 
 Texas Poker:
-WSOP; tried 途游德州扑克，天天德州，PokerStars
+WSOP(au); tried 途游德州扑克，天天德州，PokerStars(us)
 
 国际象棋：
 Chess Pro(cn)
