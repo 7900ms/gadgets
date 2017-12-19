@@ -32,4 +32,7 @@ Chess Pro (cn)，Google Translate
 入住的 app 6:
 Youtube, Imgur, Twitter, Instagram, 狼人杀，WSOP德州扑克(au)
 
+入住的 app 7:
+Shadowrocket(cn)
+
 -
