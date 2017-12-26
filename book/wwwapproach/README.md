@@ -30,18 +30,11 @@ FlashDisable 插件
 鼠标摇杆手势
 Mouse Gestures Suite
 
-网页代理
-FoxyProxy Standard
-
 搜索直连
 Google search link fix
 
 中文网址
 about:config ====> network.standard-url.escape-utf8 (默认t)改为 f (不改也可以用 ttps:// 式的复制粘贴得到中文网址)
-
-三方插件
-about:config 页面，xpinstall.signatures.required 设置为 false
-
 
 
 ```
@@ -61,6 +54,36 @@ dns
   114.114.115.110
   DNS 清理
   sudo dscacheutil -flushcache && sudo killall -HUP mDNSResponder
+
+内存
+  about:config
+  media.mediasource.webm.enabled ===> 改为 t
+  启用硬件加速
+
+SSD写入保护
+  about:config
+  browser.sessionstore.interval ====》 默认 15000 || 60000(六万，即60秒 1分钟)(注：15000，是15秒)
+  改为 1800000 即 30分钟
+
+  https://www.v2ex.com/t/308601
+
+三方插件
+  about:config 页面，xpinstall.signatures.required 设置为 false
+
+homepage
+  https://github.com/7900ms/noname/blob/master/homepage.txt
+
+图集
+http://imgur.com/a/sgrpQ
+
+下载
+curl -O http://xxxx.plist
+
+网页代理
+  FoxyProxy Standard
+  https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+  AutoProxy Base64
+
 ```
 =
 
