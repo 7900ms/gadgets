@@ -18,6 +18,7 @@ Tab Mix Plus (使用内建的页面恢复机制)
 (仅当 Tab Utilities 用不了时，比如在Firefox上，才可能出现 “用到 Tab Mix Plus” 的时机)
 
 去广告
+uBlock Origin
 
 html 保存
 UnMHT
@@ -37,6 +38,11 @@ Google search link fix
 
 中文网址
 about:config ====> network.standard-url.escape-utf8 (默认t)改为 f (不改也可以用 ttps:// 式的复制粘贴得到中文网址)
+
+三方插件
+about:config 页面，xpinstall.signatures.required 设置为 false
+
+
 
 ```
 
