@@ -45,7 +45,23 @@ about:config 页面，xpinstall.signatures.required 设置为 false
 
 
 ```
+```
+首选项
+  主页 about:blank
+  检查更新 no
+  记住网站密码 no
 
+webrtc漏洞测试
+  https://haoip.cn/
+  防止：
+  ublock:防止 WebRTC 泄露本地IP地址
+
+dns
+  114.114.114.110
+  114.114.115.110
+  DNS 清理
+  sudo dscacheutil -flushcache && sudo killall -HUP mDNSResponder
+```
 =
 
 https://github.com/7900ms/0nottheater_deserted_/tree/master/Usage_Manual/Firefox (centOS+xfce)
