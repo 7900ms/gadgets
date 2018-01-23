@@ -7,10 +7,6 @@ chrome tab
   - Right of current tab
   - New Tab Background
 
-- New Tab
-  - Right of current tab
-  - New Tab Background
-
 - External Links
   - External Links in New Tab
 
