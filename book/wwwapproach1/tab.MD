@@ -8,7 +8,7 @@ chrome tab
   - New Tab Background
 
 - Activate Tab After Tab Closing
-  - Right tab
+  - Right tab
 
 - External Links
   - External Links in New Tab
