@@ -28,6 +28,10 @@ using:
 
 [ublock](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
+[Double Click Closes Tab]()
+
+[SimpleUndoClose](https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj)
+
 <hr>
 
 source:
