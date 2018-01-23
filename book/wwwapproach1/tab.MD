@@ -24,6 +24,8 @@ using:
 
 [TabsPlus](https://chrome.google.com/webstore/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii) # no forced links-in-new-tab
 
+[crxMouse Chrome™ Gestures](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo)
+
 <hr>
 
 source:
