@@ -6,8 +6,10 @@ AIM:
 - New Tab
  - Right of current tab
  - New Tab Background
+ 
 - Activate Tab After Tab Closing
  - Right tab
+ 
 - Links
  - Links in New Tab
 
