@@ -1,20 +1,27 @@
 
 chrome tab
 
-[Tab Position Options](https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl)
 ```
+AIM:
 - New Tab
-  - Right of current tab
-  - New Tab Background
-
+ - Right of current tab
+ - New Tab Background
 - Activate Tab After Tab Closing
-  - Right tab
-
-- External Links
-  - External Links in New Tab
+ - Right tab
+- Links
+ - Links in New Tab
 
 ```
 
 
+-
+
+[Tab Position Options](https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl)
+
+tried:
+
+[Tab Position Options](https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl)
+
+[SimpleTabOrder](https://chrome.google.com/webstore/detail/simpletaborder/cekafjbmkfofacenifehbglhmajimhjf)
 
 
