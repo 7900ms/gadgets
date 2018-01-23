@@ -24,6 +24,7 @@ tried:
 
 [Tab Position Options](https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl)
 
-[SimpleTabOrder](https://chrome.google.com/webstore/detail/simpletaborder/cekafjbmkfofacenifehbglhmajimhjf)
+[SimpleTabOrder](https://chrome.google.com/webstore/detail/simpletaborder/cekafjbmkfofacenifehbglhmajimhjf) # no forced links-in-new-tab
 
+[TabsPlus](https://chrome.google.com/webstore/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii)
 
