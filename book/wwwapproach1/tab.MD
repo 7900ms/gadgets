@@ -1,7 +1,7 @@
 
 chrome tab
 
-[Tab Position Options]()
+[Tab Position Options](https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl)
 ```
 - New Tab
   - Right of current tab
