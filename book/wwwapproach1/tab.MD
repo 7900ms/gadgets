@@ -20,7 +20,8 @@ AIM:
 
 using:
 
-Force Background Tab
+[Open in new tab](https://chrome.google.com/webstore/detail/open-in-new-tab/aoilcbjfkbdplcfglkiedhefcomondlk)
+
 
 source:
 
@@ -36,7 +37,9 @@ tried:
 
 [Chrome Toolbox (by Google)](https://chrome.google.com/webstore/detail/chrome-toolbox-by-google/fjccknnhdnkbanjilpjddjhmkghmachn/related) # not work
 
-[Force Background Tab](https://chrome.google.com/webstore/detail/force-background-tab/gidlfommnbibbmegmgajdbikelkdcmcl)
+[Force Background Tab](https://chrome.google.com/webstore/detail/force-background-tab/gidlfommnbibbmegmgajdbikelkdcmcl) # useless
+
+[Open in new tab](https://chrome.google.com/webstore/detail/open-in-new-tab/aoilcbjfkbdplcfglkiedhefcomondlk)
 
 
 
