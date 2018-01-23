@@ -24,6 +24,8 @@ using:
 
 [TabsPlus](https://chrome.google.com/webstore/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii) # no forced links-in-new-tab
 
+<hr>
+
 source:
 
 [Tab Position Options](https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl)
