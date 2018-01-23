@@ -26,5 +26,6 @@ tried:
 
 [SimpleTabOrder](https://chrome.google.com/webstore/detail/simpletaborder/cekafjbmkfofacenifehbglhmajimhjf) # no forced links-in-new-tab
 
-[TabsPlus](https://chrome.google.com/webstore/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii)
+[TabsPlus](https://chrome.google.com/webstore/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii) # no forced links-in-new-tab
 
+[Chrome Toolbox (by Google)](https://chrome.google.com/webstore/detail/chrome-toolbox-by-google/fjccknnhdnkbanjilpjddjhmkghmachn/related)
