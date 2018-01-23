@@ -39,7 +39,9 @@ tried:
 
 [Force Background Tab](https://chrome.google.com/webstore/detail/force-background-tab/gidlfommnbibbmegmgajdbikelkdcmcl) # useless
 
-[Open in new tab](https://chrome.google.com/webstore/detail/open-in-new-tab/aoilcbjfkbdplcfglkiedhefcomondlk)
+[Open in new tab](https://chrome.google.com/webstore/detail/open-in-new-tab/aoilcbjfkbdplcfglkiedhefcomondlk) # little green label..
+
+[newTab](https://chrome.google.com/webstore/detail/newtab/fphdhcblnidcioeanhhfcnjjddennkip)
 
 
 
