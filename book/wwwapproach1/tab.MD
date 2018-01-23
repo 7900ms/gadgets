@@ -18,6 +18,12 @@ AIM:
 
 -
 
+using:
+
+Force Background Tab
+
+source:
+
 [Tab Position Options](https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl)
 
 tried:
@@ -28,4 +34,10 @@ tried:
 
 [TabsPlus](https://chrome.google.com/webstore/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii) # no forced links-in-new-tab
 
-[Chrome Toolbox (by Google)](https://chrome.google.com/webstore/detail/chrome-toolbox-by-google/fjccknnhdnkbanjilpjddjhmkghmachn/related)
+[Chrome Toolbox (by Google)](https://chrome.google.com/webstore/detail/chrome-toolbox-by-google/fjccknnhdnkbanjilpjddjhmkghmachn/related) # not work
+
+[Force Background Tab](https://chrome.google.com/webstore/detail/force-background-tab/gidlfommnbibbmegmgajdbikelkdcmcl)
+
+
+
+-
