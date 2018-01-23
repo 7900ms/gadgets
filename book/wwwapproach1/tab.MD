@@ -34,6 +34,8 @@ using:
 
 [SimpleExtManager](https://chrome.google.com/webstore/detail/simpleextmanager/kniehgiejgnnpgojkdhhjbgbllnfkfdk)
 
+[Tab Snooze](https://chrome.google.com/webstore/detail/tab-snooze/pdiebiamhaleloakpcgmpnenggpjbcbm)
+
 <hr>
 
 source:
