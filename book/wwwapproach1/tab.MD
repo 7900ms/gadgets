@@ -20,8 +20,7 @@ AIM:
 
 using:
 
-[Open in new tab](https://chrome.google.com/webstore/detail/open-in-new-tab/aoilcbjfkbdplcfglkiedhefcomondlk)
-
+[newTab](https://chrome.google.com/webstore/detail/newtab/fphdhcblnidcioeanhhfcnjjddennkip)
 
 source:
 
@@ -38,6 +37,8 @@ tried:
 [Chrome Toolbox (by Google)](https://chrome.google.com/webstore/detail/chrome-toolbox-by-google/fjccknnhdnkbanjilpjddjhmkghmachn/related) # not work
 
 [Force Background Tab](https://chrome.google.com/webstore/detail/force-background-tab/gidlfommnbibbmegmgajdbikelkdcmcl) # useless
+
+tried:
 
 [Open in new tab](https://chrome.google.com/webstore/detail/open-in-new-tab/aoilcbjfkbdplcfglkiedhefcomondlk) # little green label..
 
