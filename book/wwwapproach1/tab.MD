@@ -9,5 +9,5 @@ chrome tab
   
 - External Links
   - External Links in New Tab
-
+  - New Tab Background
 
