@@ -22,6 +22,8 @@ using:
 
 [newTab](https://chrome.google.com/webstore/detail/newtab/fphdhcblnidcioeanhhfcnjjddennkip)
 
+[TabsPlus](https://chrome.google.com/webstore/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii) # no forced links-in-new-tab
+
 source:
 
 [Tab Position Options](https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl)
