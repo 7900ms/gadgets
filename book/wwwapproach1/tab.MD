@@ -26,7 +26,7 @@ using:
 
 [Double Click (on page) Closes Tab](https://chrome.google.com/webstore/detail/double-click-closes-tab/megplcpdkmjjoondippkedoaidkeikcm)
 
-[crxMouse Chrome™ Gestures (rocker gesture)](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo)
+[smartUp Gestures](https://chrome.google.com/webstore/detail/smartup-gestures/bgjfekefhjemchdeigphccilhncnjldn)
 
 -
 
