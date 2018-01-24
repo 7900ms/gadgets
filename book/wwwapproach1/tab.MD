@@ -62,6 +62,11 @@ tried:
 
 [newTab](https://chrome.google.com/webstore/detail/newtab/fphdhcblnidcioeanhhfcnjjddennkip)
 
+tried:
+
+[crxMouse Chrome™ Gestures (rocker gesture)](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo) # no text drag-up
+
+[smartUp Gestures](https://chrome.google.com/webstore/detail/smartup-gestures/bgjfekefhjemchdeigphccilhncnjldn)
 
 
 -
