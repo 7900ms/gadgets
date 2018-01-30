@@ -14,6 +14,11 @@ AIM:
  - Links in New Tab
 
 ```
+```
+Imp
+用鼠标手势 解决 ‘Open in background or foreground’(打开标签的激活性) 的问题
+用标签管理器 解决 打开标签的位置的问题 
+```
 
 
 -
