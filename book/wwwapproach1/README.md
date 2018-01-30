@@ -7,7 +7,7 @@ http://vampirediaries.wikia.com/wiki/Lexi_Branson 
 
 http://vampirediaries.wikia.com/wiki/Ripper 
 
-xxxx : <br>scan through multi-pages, keen on tab control, 吸收内容学习新内容(如twPolitics,嘻哈圈资料) 取之精华去之糟粕(随时检索新资料(后台标签打开搜索待看+搜索结果迅速前台查看)) 但网速慢 打开一串标签慢慢等网络载入好之后看 
+xxxx : <br>scan through multi-pages, keen on tab control, 吸收内容学习新内容(如twPolitics,嘻哈圈资[料](https://www.zhihu.com/question/63341690/answer/211243270#二手资料)) 取之精华去之糟粕(随时检索新资料(后台标签打开搜索待看+搜索结果迅速前台查看)) 但网速慢 打开一串标签慢慢等网络载入好之后看 
 
 
 -
