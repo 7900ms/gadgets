@@ -16,10 +16,11 @@ AIM:
 ```
 ```
 Imp
-用标签管理器一 解决 是否一直打开新标签的问题 
-用标签管理器一 解决 是否一直打开新标签的问题 + 如果一直打开新标签 新标签的激活性 的问题 
 用鼠标手势 解决 是否一直打开新标签的问题 
-用鼠标手势 解决 ‘Open in background or foreground’(新标签的激活性) 的问题
+用鼠标手势 解决 ‘Open in background or foreground’(新标签的激活性) 的问题 
+用标签管理器一 解决 是否一直打开新标签的问题 
+用标签管理器二 避免让鼠标手势失效（要保持 想在前台就在前台、想在后台就在后台 即 不能强制所有新标签在后台） 
+用标签管理器二 解决 如果一直打开新标签 新标签的激活性 的问题 
 用标签管理器二 解决 新标签的位置的问题 
 ```
 
@@ -28,13 +29,13 @@ Imp
 
 using:
 
+[smartUp Gestures](https://chrome.google.com/webstore/detail/smartup-gestures/bgjfekefhjemchdeigphccilhncnjldn)
+
 [newTab](https://chrome.google.com/webstore/detail/newtab/fphdhcblnidcioeanhhfcnjjddennkip)
 
 [Tab Position Options](https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl)
 
 [Double Click (on page) Closes Tab](https://chrome.google.com/webstore/detail/double-click-closes-tab/megplcpdkmjjoondippkedoaidkeikcm)
-
-[smartUp Gestures](https://chrome.google.com/webstore/detail/smartup-gestures/bgjfekefhjemchdeigphccilhncnjldn)
 
 -
 
