@@ -7,7 +7,7 @@ http://vampirediaries.wikia.com/wiki/Lexi_Branson 
 
 http://vampirediaries.wikia.com/wiki/Ripper 
 
-xxxx : <br>scan through multi-pages, keen on tab control, 吸收内容学习新内容(如twPolitics,嘻哈圈[资](http://www.sohu.com/a/157651024_656170#让别人感觉自己在-这个不严重阿)[料](https://www.zhihu.com/question/63341690/answer/211243270#人们为什么表现得喜欢他-二手资料),韩国[明](https://www.zhihu.com/question/27145087#人们为什么表现得夸赞他-可以看电影阿学习拍电影)[星](https://www.zhihu.com/question/22937005#人们为什么表现得喜欢他-可以看电影阿学习拍电影)) 取之精华去之糟粕(随时检索新资料(后台标签打开搜索待看+搜索结果迅速前台查看)) 但网速慢 打开一串标签慢慢等网络载入好之后看 
+xxxx : <br>scan through multi-pages, keen on tab control, 吸收内容学习新内容(如twPolitics,嘻哈圈[资](http://www.sohu.com/a/157651024_656170#让别人感觉自己在-这个不严重阿)[料](https://www.zhihu.com/question/63341690/answer/211243270#人们为什么表现得喜欢他-二手资料),韩国[明](https://www.zhihu.com/question/27145087#人们为什么表现得夸赞他-可以看电影阿学习拍电影-cuzHe表现得维护别人)[星](https://www.zhihu.com/question/22937005#人们为什么表现得喜欢他-可以看电影阿学习拍电影)) 取之精华去之糟粕(随时检索新资料(后台标签打开搜索待看+搜索结果迅速前台查看)) 但网速慢 打开一串标签慢慢等网络载入好之后看 
 
 
 -
