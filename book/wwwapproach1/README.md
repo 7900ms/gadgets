@@ -7,7 +7,7 @@ http://vampirediaries.wikia.com/wiki/Lexi_Branson 
 
 http://vampirediaries.wikia.com/wiki/Ripper 
 
-xxxx : <br>scan through multi-pages, keen on tab control 
+xxxx : <br>scan through multi-pages, keen on tab control, 打开一串标签慢慢等网络载入好之后看 
 
 
 -
