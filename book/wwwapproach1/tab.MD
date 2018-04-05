@@ -35,7 +35,7 @@ using:
 
 [Tab Position Options](https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl)
 
-[Double Click (on page, triple clicks 350ms) Closes Tab](https://chrome.google.com/webstore/detail/double-click-closes-tab/megplcpdkmjjoondippkedoaidkeikcm)
+[Double Click (on page, **triple clicks 350ms**) Closes Tab](https://chrome.google.com/webstore/detail/double-click-closes-tab/megplcpdkmjjoondippkedoaidkeikcm)
 
 -
 
