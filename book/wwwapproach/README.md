@@ -30,6 +30,10 @@ FlashDisable 插件
 鼠标摇杆手势
 Mouse Gestures Suite
 
+母语阅读
+TranslateWebpageAtGoogle
+https://translate.google.com/translate?hl=zh-CN&sl=en&tl=zh-CN&u=
+
 搜索直连
 Google search link fix
 
