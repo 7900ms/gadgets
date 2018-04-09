@@ -12,7 +12,7 @@ workflow
 -
 
 入住的 app 0:
-workflow
+workflow, My Data Mgr
 
 入住的 app 1:
 google photos, googel maps, metroMATE, Telegram
@@ -34,6 +34,7 @@ Youtube, Imgur, Twitter, Instagram, 狼人杀，WSOP德州扑克(au)
 
 入住的 app 7:
 Shadowrocket(cn), FM Radio Station(cn), CamScanner+(cn), WeChat(cn)
+
 
 9:
 Google Chrome Browser as webpage Translator (prompt to translate a webpage to cn)
