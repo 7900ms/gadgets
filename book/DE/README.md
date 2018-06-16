@@ -14,4 +14,8 @@ Xfce: 支持 CentOS, Fedora, Ubuntu, Debian
 
 ```
 
+![](https://i.imgur.com/VbxKlGy.png)
+
+[xfce + CentOS](https://github.com/7900ms/0nottheater_deserted_/tree/master/small)
+
 -
