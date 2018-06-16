@@ -20,6 +20,9 @@ Tab Mix Plus (使用内建的页面恢复机制)
 去广告
 uBlock Origin
 
+undo tab
+Undo Closed Tabs Button
+
 html 保存
 UnMHT
 
