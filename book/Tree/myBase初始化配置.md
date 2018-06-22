@@ -2,6 +2,7 @@
 初始化配置
 http://www.wjjsoft.com/download.html
 
+View - Language - Ch
 View - Options - General - Character set: UTF-8
 
 1. 侧边栏字体
