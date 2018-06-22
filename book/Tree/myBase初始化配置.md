@@ -20,6 +20,20 @@ View - Options - General - Character set: UTF-8
 查看 - （底部）状态栏 x
 查看 - 关联信息窗格 - 保持关闭 ( 图片附件 ) 
 
+4. 新建条目
+选项 - 内容 - 新建条目缺省内容格式 纯文本
+
+= = = = = 
+
+1. 编辑框字体
+选项 - 编辑 - 纯文本
+
+(linux 默认 Sans Serif, 10)
+
+2. 让 myBase 默认是不可编辑，按 f2 编辑。设置
+
+选项 - 内容 - 取消勾选 ‘以编辑模式打开条目缺省内容’
+
 ```
 ```
 mac
@@ -29,8 +43,8 @@ http://www.wjjsoft.com/download.html
 1. 侧边栏字体
 选项 - 大纲
 
-=》16号 (linux 默认 9)
-=》Georgia (linux 默认 Sans Serif)
+=》16号
+=》Georgia
 =》背景色白色
 
 2. 侧边栏项目
