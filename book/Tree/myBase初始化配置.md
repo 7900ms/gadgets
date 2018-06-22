@@ -1,15 +1,36 @@
 ```
-初始化配置
-http://www.wjjsoft.com/download.html
-
+linux
 View - Language - Ch
 View - Options - General - Character set: UTF-8
+
+1. 侧边栏字体(不动)
+
+选项 - 大纲
+
+= (linux 默认 9)
+= (linux 默认 Sans Serif)
+=》背景色白色
+
+2. 侧边栏项目
+查看 - 导航窗格 - 导航窗格 留
+查看 - 导航窗格 - 导航标签 x 
+
+3. 编辑框，仅保留写字框
+查看 - （上部）条目内容标题栏 x
+查看 - （底部）状态栏 x
+查看 - 关联信息窗格 - 保持关闭 ( 图片附件 ) 
+
+```
+```
+mac
+初始化配置
+http://www.wjjsoft.com/download.html
 
 1. 侧边栏字体
 选项 - 大纲
 
-=》16号 
-=》Georgia 
+=》16号 (linux 默认 9)
+=》Georgia (linux 默认 Sans Serif)
 =》背景色白色
 
 2. 侧边栏项目
