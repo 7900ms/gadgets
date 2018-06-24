@@ -14,7 +14,8 @@ https://www.zhihu.com/question/40392320/answer/234903257
 https://www.zhihu.com/collection/223787898
 关键字 关晓彤 关大壮 头肩比
 有没有人跟我一样一直Get不到某个明星的颜值
-有哪些明星，在别人都夸ta好看的时候，你却无法get到ta的美/帅 
+有哪些明星，在别人都夸ta好看的时候，你却无法get到ta的美/帅
+明星与普通人之间颜值的差距到底有多大
 ```
 -
 
