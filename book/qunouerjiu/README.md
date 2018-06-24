@@ -1,5 +1,5 @@
 
-群殴二舅，专业兼美
+群殴二舅，专业兼美 (题海鉴美)
 
 题海
 ```
@@ -15,7 +15,7 @@ https://github.com/7900ms/gadgets/blob/master/book/qunouerjiu/z1.md
 
 ```
 素材
-http://weibo.com/2057592134/F0nK9oh8B
+http://weibo.com/2057592134/F0nK9oh8B 生日快乐 来自小齐齐的大世界 - 微博
 ```
 
 -
