@@ -18,4 +18,6 @@ Xfce: 支持 CentOS, Fedora, Ubuntu, Debian
 
 [xfce + CentOS](https://github.com/7900ms/0nottheater_deserted_/tree/master/small) [-](https://www.zhihu.com/question/19599986/answer/29379388#除非你明白自己在干什么，否则RHEL一定是你的第一选择)
 
+[深度学习的平台基本都是ubuntu-对半门的科学家好用](https://www.v2ex.com/t/468234)
+
 -
