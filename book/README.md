@@ -7,3 +7,4 @@
 
 [gadgets book](https://github.com/7900ms/gadgets/tree/master/book)
 
+[NeteaseCloudMusicFlac](https://github.com/7900ms/NeteaseCloudMusicFlac)
