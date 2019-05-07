@@ -20,7 +20,7 @@ about:config
 extensions.legacy.enabled (Firefox Release 66 之后失效)
 ```
 ```
-tab
+tab (过期)
 Tab Mix Plus (使用内建的页面恢复机制)
 (不用 Tab Mix Plus 因为没有按钮，用于“所有新标签在后台打开”)
 (仅当 Tab Utilities 用不了时，比如在Firefox上，才可能出现 “用到 Tab Mix Plus” 的时机)
@@ -44,8 +44,12 @@ flash拦截
 http://www.adobe.com/software/flash/about/
 FlashDisable 插件
 
-鼠标摇杆手势
+鼠标摇杆手势 (过期)
 Mouse Gestures Suite
+
+鼠标摇杆手势 
+Foxy Gestures
+https://addons.mozilla.org/en-US/firefox/addon/foxy-gestures/?src=search
 
 母语阅读
 TranslateWebpageAtGoogle
