@@ -25,6 +25,12 @@ Tab Mix Plus (使用内建的页面恢复机制)
 (不用 Tab Mix Plus 因为没有按钮，用于“所有新标签在后台打开”)
 (仅当 Tab Utilities 用不了时，比如在Firefox上，才可能出现 “用到 Tab Mix Plus” 的时机)
 
+tab 新解决方案(实现 新标签在当前标签右侧+自动打开链接在新标签)
+Open Tabs Next to Current
+https://addons.mozilla.org/en-US/firefox/addon/open-tabs-next-to-current/?src=search
+Open in new tab
+https://addons.mozilla.org/en-US/firefox/addon/open-in-new-tab-domain/?src=search
+
 去广告
 uBlock Origin
 
