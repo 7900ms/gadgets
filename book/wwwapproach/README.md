@@ -31,6 +31,12 @@ https://addons.mozilla.org/en-US/firefox/addon/open-tabs-next-to-current/?src=se
 Open in new tab
 https://addons.mozilla.org/en-US/firefox/addon/open-in-new-tab-domain/?src=search
 
+听歌 翻墙回国
+NetEaseMusicWorld+
+https://chrome.google.com/webstore/detail/neteasemusicworld+/pjcgkmiglhiambjngnljkdpoggonlnfe
+https://github.com/nondanee/NetEaseMusicWorldPlus
+https://addons.mozilla.org/zh-CN/firefox/addon/neteasemusicworldplus/
+
 去广告
 uBlock Origin
 
