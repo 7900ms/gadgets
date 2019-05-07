@@ -7,10 +7,16 @@ Firefox
 
 下载地址
 https://www.mozilla.org/en-US/firefox/all/
+下载地址 Firefox ESR ✓
+https://www.mozilla.org/en-US/firefox/organizations/all/
 
 (自带flash)
 https://github.com/7900ms/00nottheater_deserted/blob/master/Installation_Manual/flash.txt
 
+```
+about:config
+extensions.legacy.enabled
+```
 ```
 tab
 Tab Mix Plus (使用内建的页面恢复机制)
