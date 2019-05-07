@@ -6,7 +6,7 @@ Firefox
 显示程序菜单 alt
 
 ```
-下载地址
+下载地址 Firefox Release 
 https://www.mozilla.org/en-US/firefox/all/
 下载地址 Firefox ESR (when in trouble, try using ESR)
 https://www.mozilla.org/en-US/firefox/organizations/all/
@@ -17,7 +17,7 @@ https://github.com/7900ms/00nottheater_deserted/blob/master/Installation_Manual/
 
 ```
 about:config
-extensions.legacy.enabled
+extensions.legacy.enabled (Firefox Release 66 之后失效)
 ```
 ```
 tab
