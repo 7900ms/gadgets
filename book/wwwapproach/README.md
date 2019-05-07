@@ -52,7 +52,8 @@ TranslateWebpageAtGoogle
 https://translate.google.com/translate?hl=zh-CN&sl=en&tl=zh-CN&u=
 
 搜索直连
-Google search link fix
+~Google search link fix~
+google-no-tracking-url 
 
 中文网址
 about:config ====> network.standard-url.escape-utf8 (默认t)改为 f (不改也可以用 ttps:// 式的复制粘贴得到中文网址)
