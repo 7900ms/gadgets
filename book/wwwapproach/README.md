@@ -36,6 +36,7 @@ NetEaseMusicWorld+
 https://chrome.google.com/webstore/detail/neteasemusicworld+/pjcgkmiglhiambjngnljkdpoggonlnfe
 https://github.com/nondanee/NetEaseMusicWorldPlus
 https://addons.mozilla.org/zh-CN/firefox/addon/neteasemusicworldplus/
+https://music.163.com/#/album?id=28552 # 孙燕姿 (额外力量) 
 
 去广告
 uBlock Origin
