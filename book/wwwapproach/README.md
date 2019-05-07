@@ -34,7 +34,7 @@ https://addons.mozilla.org/en-US/firefox/addon/open-in-new-tab-domain/?src=searc
 去广告
 uBlock Origin
 
-undo tab
+undo tab (不再需要)
 Undo Closed Tabs Button
 
 html 保存
