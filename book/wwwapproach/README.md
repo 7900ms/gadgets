@@ -5,10 +5,12 @@ Firefox
 
 显示程序菜单 alt
 
+```
 下载地址
 https://www.mozilla.org/en-US/firefox/all/
-下载地址 Firefox ESR ✓
+下载地址 Firefox ESR (when in trouble, try using ESR)
 https://www.mozilla.org/en-US/firefox/organizations/all/
+```
 
 (自带flash)
 https://github.com/7900ms/00nottheater_deserted/blob/master/Installation_Manual/flash.txt
